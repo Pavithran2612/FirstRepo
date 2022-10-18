@@ -2,7 +2,7 @@ public class Operation
 {
 	public ststic void main (String[] args)
 	{
-		int x = 100;
+		int x = 150;
 		int y = 200;
 		if(x<y)
 		{
