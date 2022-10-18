@@ -6,5 +6,8 @@ public class Addition
 		int b = 30;
 		int c = 40;
 		System.out.println(a + b * c);
+		int d = 100;
+		int result  = d + (a*b*c);
+		System.out.println(resullt);
 	}
 }
