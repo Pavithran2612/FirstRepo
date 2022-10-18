@@ -1,3 +1,4 @@
+
 public class Addition
 {
 	public static void main (String[] args)
@@ -8,6 +9,6 @@ public class Addition
 		System.out.println(a + b * c);
 		int d = 100;
 		int result  = d + (a*b*c);
-		System.out.println(resullt);
+		System.out.println(result);
 	}
 }
