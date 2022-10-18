@@ -3,7 +3,7 @@ public class Addition
 	public static void main (String[] args)
 	{
 		int a = 20;
-		int b = 30;
+		int b = 80;
 		int c = 40;
 		System.out.println(a + b * c);
 		int d = 100;
