@@ -4,7 +4,7 @@ public class Addition
 	{
 		int a = 20;
 		int b = 80;
-		int c = 40;
+		int c = 90;
 		System.out.println(a + b * c);
 		int d = 100;
 		int result  = d + (a*b*c);
